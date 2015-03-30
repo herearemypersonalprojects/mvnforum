@@ -1,12 +1,6 @@
 # mvnforum
 mvnForum is a open source, powerful, easy to use/setup bulletin board (forum) built on the J2EE technology(Jsp/Servlet) and compatible with any Servlet Container which supports Jsp 1.2 and Servlet 2.3. The official home page is www.mvnForum.com 
 
-====================================================================
-  $Id: README.txt,v 1.1.2.1 2009/03/10 10:45:58 minhnn Exp $
-====================================================================
-          Quick Readme for mvnForum and mvnAd Source Package
-====================================================================
-
 1/ The documentation is in folder mvnforum/docs and mvnad/docs in this package
 
 2/ For installation, please read mvnforum/docs/INSTALL.txt
